@@ -42,7 +42,7 @@ export const route = createBrowserRouter([
                element : <JoinUs />
             },
              
-        ]
+        ] 
     },
     {
         path : '*',
